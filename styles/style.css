@@ -1,0 +1,22 @@
+.header__span--1 {
+  color: rgb(178, 34, 34, 10); /* Fire Brick */
+}
+
+.header__span--2 {
+  color: rgb(0, 115, 207, 10); /* True Blue */
+}
+
+.main__inner--1 {
+  padding: 50px;
+  background-color: green;
+}
+
+.main__label--1 {
+  font-size: 30px;
+  color: blue;
+  font-weight: 600;
+  padding: 100px;
+  background-color: red;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
